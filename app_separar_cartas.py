@@ -5,9 +5,9 @@ import re
 import io
 import zipfile
 
-st.set_page_config(page_title="Separar Cartas PDF", page_icon="📄")
+st.set_page_config(page_title="Separar Cartas PDF", page_icon="🖕🏾")
 
-st.title("📄 Separador de Cartas PDF")
+st.title("🖕🏾 Separador de Cartas PDF, Me toco ayudarlos Att:Estiven")
 st.write(
     "Sube el PDF con todas las cartas y el Excel con los nombres. "
     "La app genera un PDF individual por cada carta, listos para descargar."
